@@ -10,3 +10,8 @@ let obj = {
 alert(
     `${obj.Username} has purchased a ${obj.Productname} which costs ${obj.Price} on ${obj.Day} on ocassion of ${obj.Ocassion} in ${obj.Platform}`
 );
+
+let img = document.createElement("img")
+img.setAttribute("src","https://i.gifer.com/g0hD.gif")
+
+document.body.append(img)
