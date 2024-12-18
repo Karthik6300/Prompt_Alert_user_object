@@ -13,5 +13,8 @@ alert(
 
 let img = document.createElement("img")
 img.setAttribute("src","https://i.gifer.com/g0hD.gif")
+let div=document.createElement("div")
+document.div.append(img)
+document.body.append(div)
 
-document.body.append(img)
+
