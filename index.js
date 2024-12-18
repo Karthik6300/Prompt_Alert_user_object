@@ -11,10 +11,10 @@ alert(
     `${obj.Username} has purchased a ${obj.Productname} which costs ${obj.Price} on ${obj.Day} on ocassion of ${obj.Ocassion} in ${obj.Platform}`
 );
 
+let divn=document.createElement("div")
 let img = document.createElement("img")
 img.setAttribute("src","https://i.gifer.com/g0hD.gif")
-let div=document.createElement("div")
-document.div.append(img)
-document.body.append(div)
+divn.append(img)
+document.body.append(divn)
 
 
