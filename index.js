@@ -1,11 +1,3 @@
-// let  Username=prompt("Enter User Name")
-// let Productname=prompt("Product Name") 
-// let Price=prompt("Price of the Product")
-// let Day=prompt("Day of purchasing")
-// let Ocassion=prompt("Ocassion of Purchasing")
-// let Platform=prompt("Purchasing platform")
-
-
 let obj = {
     Username: prompt("Enter User Name"),
     Productname: prompt("Product_name"),
